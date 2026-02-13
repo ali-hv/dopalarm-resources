@@ -1,0 +1,1 @@
+# dopalarm-resources
